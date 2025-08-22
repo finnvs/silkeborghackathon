@@ -1,0 +1,10 @@
+{
+  "week": "2024-11-04",
+  "leaderboard": [
+    {"name": "Alice", "xp": 320, "quizzesWon": 3},
+    {"name": "Bob", "xp": 275, "quizzesWon": 2},
+    {"name": "Charlie", "xp": 250, "quizzesWon": 1},
+    {"name": "Diana", "xp": 200, "quizzesWon": 1},
+    {"name": "Ethan", "xp": 150, "quizzesWon": 0}
+  ]
+}
